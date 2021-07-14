@@ -1,0 +1,11 @@
+.port-title {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.pic-item img {
+    max-width: 100%;
+    height: auto;
+    padding-bottom: 20px;
+}

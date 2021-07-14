@@ -1,0 +1,51 @@
+.clientpreparation {
+    padding-top: 50px;
+    text-align-last: center;
+    padding-bottom: 50px;
+}
+
+.clientpreparation-title {
+    color: rgb(161, 159, 159);
+}
+
+.pic-right img {
+    width: 150px;
+    height: auto;
+    align-items: center;
+    vertical-align: middle;
+    padding: 10px;
+}
+
+.preparation {
+    padding-bottom: 50px;
+}
+
+.ourprocess {
+    padding-top: 50px;
+    text-align-last: center;
+    padding-bottom: 50px;
+}
+
+.process-title {
+    color: rgb(161, 159, 159);
+}
+
+.design-title {
+    padding-bottom: 30px;
+}
+
+.box-process img {
+    width: 150px;
+    height: auto;
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+.process {
+    padding-bottom: 50px;
+}
+
+.construction-title {
+    padding-bottom: 30px;
+}
